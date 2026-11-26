@@ -1,0 +1,12 @@
+{
+  "recommendations": [
+    "ms-vscode-remote.remote-wsl",
+    "hashicorp.terraform",
+    "github.vscode-github-actions",
+    "redhat.vscode-yaml",
+    "davidanson.vscode-markdownlint",
+    "editorconfig.editorconfig",
+    "ms-azuretools.vscode-azureresourcegroups",
+    "bierner.markdown-mermaid"
+  ]
+}

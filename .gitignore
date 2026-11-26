@@ -1,0 +1,26 @@
+# Terraform
+**/.terraform/*
+*.tfstate
+*.tfstate.*
+*.tfplan
+*.tfplan.json
+crash.log
+crash.*.log
+override.tf
+override.tf.json
+*_override.tf
+*_override.tf.json
+.terraformrc
+terraform.rc
+# Environment-specific values (IDs never committed, see ADR-0001)
+*.tfvars
+*.tfvars.json
+!*.example.tfvars
+# Local tooling
+.env
+.env.*
+*.log
+.DS_Store
+Thumbs.db
+# Unredacted evidence stays local
+docs/validation/raw/
